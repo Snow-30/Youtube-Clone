@@ -17,14 +17,14 @@ This is a **YouTube Clone** built using **HTML and CSS**. The project focuses on
 
 ## 📂 Project Structure
 ```bash
-📁 youtube-clone
-│── 📂 assets         # Images, icons, and other assets
-│── 📂 css            # Stylesheets
-│── index.html        # Main HTML file
+📁 Youtube Clone
+│── 📂 Images         # Images, icons, and other assets
+│── youtube-clone.css            # Stylesheets
+│── youtube-clone.html        # Main HTML file
 ```
 
 ## 📸 Screenshots
-(Include relevant images of your project here)
+![Homepage](Images/Screenshot.png)
 
 ## 🚀 How to Run
 1. **Clone the repository**
@@ -35,7 +35,7 @@ This is a **YouTube Clone** built using **HTML and CSS**. The project focuses on
    ```bash
    cd youtube-clone
    ```
-3. **Open `index.html` in your browser**
+3. **Open `youtube-clone.html` in your browser**
 
 ## 🔥 Future Enhancements
 🔹 Add a **dark mode toggle** for better UX  
@@ -47,5 +47,5 @@ If you'd like to improve this project, feel free to **fork** the repository and 
 
 ## 📞 Contact
 For any queries, feel free to reach out:
-- **GitHub**: [your-github](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: [your-github](https://github.com/Snow-30)
+- **Email**: snowyz3007@gmail.com
