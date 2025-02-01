@@ -1,6 +1,9 @@
 # 📺 YouTube Clone
 
 ## 🚀 Overview
+This project was inspired by HTML & CSS Full Course - Beginner to Pro by SuperSimpleDev.  
+I have made modifications and improvements in various parts of the code.
+
 This is a **YouTube Clone** built using **HTML and CSS**. The project focuses on replicating the basic layout and UI of YouTube, making it responsive across different screen sizes.
 
 ## 🛠️ Technologies Used
