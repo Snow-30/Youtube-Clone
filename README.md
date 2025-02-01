@@ -29,11 +29,11 @@ This is a **YouTube Clone** built using **HTML and CSS**. The project focuses on
 ## 🚀 How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Snow-30/youtube-clone.git
+   git clone https://github.com/Snow-30/Youtube-clone.git
    ```
 2. **Navigate to the project directory**
    ```bash
-   cd youtube-clone
+   cd Youtube-clone
    ```
 3. **Open `youtube-clone.html` in your browser**
 
@@ -47,5 +47,5 @@ If you'd like to improve this project, feel free to **fork** the repository and 
 
 ## 📞 Contact
 For any queries, feel free to reach out:
-- **GitHub**: [your-github](https://github.com/Snow-30)
+- **GitHub**: [Snow-30](https://github.com/Snow-30)
 - **Email**: snowyz3007@gmail.com
